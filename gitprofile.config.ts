@@ -33,21 +33,13 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'My First DIY PCB Project',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Taking on each step of the project with careful attention, as it was my first attempt, I worked diligently despite my lack of experience. Despite constantly encountering mistakes, I didnt give up and continued until I achieved results.However, after long efforts, I completed my project. I believed I succeeded after hours of effort. I enjoyed this experience, which returned to me as both experience and knowledge, and I thought it was a good start for me.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+            'https://i3.ytimg.com/vi/dGl1446TdQU/maxresdefault.jpg',
+          link: 'https://www.youtube.com/watch?v=dGl1446TdQU',
+        }
       ],
     },
   },
@@ -80,20 +72,31 @@ const CONFIG = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    "Leadership",
+    "Python",
+    "JavaScript",
+    "Embedded C/C++",
+    "MATLAB",
+    "PCB Design",
+    "Linux",
+    "Arduino",
+    "PIC",
+    "Hardware",
+    "Electronics",
+    "Soldering",
+    "AutoCAD",
+    "Proteus",
+    "Fritzing",
+    "Autodesk Fusion 360",
+    "GitHub",
+    "Node.js",
+    "MongoDB",
+    "Embedded Systems",
+    "Adobe Design Programs",
+    "Microsoft Office",
+    "WordPress",
+    "Web Hosting",
+    "Domain Management",
   ],
   experiences: [
     {
