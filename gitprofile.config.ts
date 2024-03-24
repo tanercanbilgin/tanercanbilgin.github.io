@@ -35,9 +35,9 @@ const CONFIG = {
         {
           title: 'My First DIY PCB Project',
           description:
-            'Taking on each step of the project with careful attention, as it was my first attempt, I worked diligently despite my lack of experience. Despite constantly encountering mistakes, I didnt give up and continued until I achieved results.However, after long efforts, I completed my project. I believed I succeeded after hours of effort. I enjoyed this experience, which returned to me as both experience and knowledge, and I thought it was a good start for me.',
+            'Taking on each step of the project with careful attention, as it was my first attempt, I worked diligently despite my lack of experience. Despite constantly encountering mistakes, I didnt give up and continued until I achieved results. However, after long efforts, I completed my project. I believed I succeeded after hours of effort. I enjoyed this experience, which returned to me as both experience and knowledge, and I thought it was a good start for me.',
           imageUrl:
-            'https://i3.ytimg.com/vi/dGl1446TdQU/maxresdefault.jpg',
+            'https://i3.ytimg.com/vi/dGl1446TdQU/hqdefault.jpg',
           link: 'https://www.youtube.com/watch?v=dGl1446TdQU',
         }
       ],
@@ -135,7 +135,7 @@ const CONFIG = {
     respectPrefersColorScheme: false,
 
     // Display the ring in Profile picture
-    displayAvatarRing: true,
+    displayAvatarRing: false,
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
